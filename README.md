@@ -1,9 +1,9 @@
 # EDAA — Aula 06: TADs Lineares
 
-**Aluno:** Sérgio Pinton Pavanelli
-**RA:** 123220202
-**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos (0006963)
-**UniBH — 2026/1**
+**Aluno:** Sérgio Pinton Pavanelli  
+**RA:** 123220202  
+**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos (0006963)  
+**UniBH — 2026/1**  
 
 ---
 
