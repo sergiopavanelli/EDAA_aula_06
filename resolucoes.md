@@ -3,9 +3,9 @@
 ## Aluno: Sérgio Pinton Pavanelli
 ## RA: 123220202
 
-**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos
-**Código:** 0006963
-**Data:** 30/03/2026
+**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos  
+**Código:** 0006963  
+**Data:** 30/03/2026  
 
 
 ---
